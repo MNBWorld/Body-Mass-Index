@@ -1,4 +1,4 @@
-# bmi
+# Body Mass Index (BMI)
 
 <img src="assets\BMIscreenshot.png" width="400"/>
 
