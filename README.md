@@ -1,6 +1,6 @@
 # bmi
 
-<img scr="assets\BMIscreenshot.png"/>
+<img src="assets\BMIscreenshot.png" width="400"/>
 
 ## What is it?
 This is a flutter project. Basically this a Body Mass Index (BMI) calculator.
